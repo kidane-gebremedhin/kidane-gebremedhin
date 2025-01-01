@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Kidane! <br/><a href="https://github.com/kidane-gebremedhin">Fullstack Software Developer</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Full Stack Web Applications with Java(Spring Boot), PHP(Laravel, Yii1.1), JavaScript(Node.js, Vue.js, React)</b>
+- <b>Scala (Play, Akka)</b>
+  - [Scala play web application](https://github.com/kidane-gebremedhin/Scala-play-webapp)
+  - [Akka actors playaround](https://github.com/kidane-gebremedhin/Akka-actors-playaround-SCALA)
+- <b>Python (Django)</b>
+  - [Pay with airtime balance](https://github.com/kidane-gebremedhin/Paywith-Airtime-Balance-Django)
+
 
 <!--
 **kidane-gebremedhin/kidane-gebremedhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
