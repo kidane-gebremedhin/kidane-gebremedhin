@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kidane! <br/><a href="https://github.com/kidane-gebremedhin">Fullstack Software Developer</a></h1>
+<h1>Hi, I'm Kidane! <br/><a href="https://github.com/kidane-gebremedhin">Fullstack(Backend heavy) Software Developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
