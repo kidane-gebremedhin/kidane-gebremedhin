@@ -6,9 +6,14 @@
 - <b>Scala (Play, Akka)</b>
   - [Scala play web application](https://github.com/kidane-gebremedhin/Scala-play-webapp)
   - [Akka actors playaround](https://github.com/kidane-gebremedhin/Akka-actors-playaround-SCALA)
+- <b>Java (Spring boot, JavaFx)</b>
+  - [Estudent, Elearning, Inventory Apps](https://github.com/kidane-gebremedhin/JavaApps)
 - <b>Python (Django)</b>
   - [Pay with airtime balance](https://github.com/kidane-gebremedhin/Paywith-Airtime-Balance-Django)
-
+- <b>PHP (Laravel, Yii, CodeIgniter)</b>
+  - [Electronic Documents Sharing Platform](https://github.com/kidane-gebremedhin/edms)
+  - [Inventory Stock Monitor](https://github.com/kidane-gebremedhin/stock)
+  - [Send SMS without a Gateway API in a Laravel Application](https://github.com/kidane-gebremedhin/SMS_APP)
 
 <!--
 **kidane-gebremedhin/kidane-gebremedhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
