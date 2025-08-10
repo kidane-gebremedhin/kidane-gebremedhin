@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kidane! <br/><a href="https://github.com/kidane-gebremedhin">Senior Backend Engineer (6+ years)</a></h1>
 
-<h2>👨‍💻 Bridging Past and Future: Development & Maintenance of Both Modern & Legacy Platforms:</h2>
+<h2>👨‍💻 Bridging Past and Future: Development & Maintenance of Both Modern & Legacy Platforms</h2>
 
 - <b>Web Application developer primarily with Java(Spring Boot), Scala(Play, Akka), PHP(Laravel, Yii), and JavaScript(Node.js, TypeScript, Vue.js, React)</b>
 - <b>Scala (Play, Akka) projects</b>
@@ -14,6 +14,9 @@
   - [Electronic Documents Sharing Platform](https://github.com/kidane-gebremedhin/edms)
   - [Inventory Stock Monitor](https://github.com/kidane-gebremedhin/stock)
   - [Send SMS without a Gateway API in a Laravel Application](https://github.com/kidane-gebremedhin/SMS_APP)
+
+<b>How to reach me:</b>
+ - [LinkedIn](https://www.linkedin.com/in/kidane-gebremedhin/)
 
 <!--
 **kidane-gebremedhin/kidane-gebremedhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
