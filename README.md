@@ -4,6 +4,7 @@
 
 - <b>Web Application developer primarily with Java(Spring Boot), Scala(Play, Akka), JavaScript(Node.js, NextJS, TypeScript, Vue.js, React), PHP(Laravel, Yii)</b>
 - <b>Java (Spring boot, JavaFx) projects</b>
+  - [Distributed Retail Platform](https://github.com/kidane-gebremedhin/Distributed-Retail-Platform)
   - [Estudent & Lottery Apps](https://github.com/kidane-gebremedhin/JavaApps)
 - <b>JavaScript (TypeScript, NextJs, React) projects</b>
   - [Demand & Inventory Management App](https://github.com/kidane-gebremedhin/InventoryLite)
