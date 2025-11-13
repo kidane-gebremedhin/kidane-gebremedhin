@@ -1,8 +1,8 @@
-<h1>Hi, I'm Kidane! <br/><a href="https://github.com/kidane-gebremedhin">Seasoned Fullstack Developer (6+ years)</a></h1>
+<h1>Hi, I'm Kidane! <br/><a href="https://github.com/kidane-gebremedhin">Seasoned Fullstack Developer (7+ years)</a></h1>
 
 <h2>👨‍💻 Bridging Past and Future: Development & Maintenance of Both Modern & Legacy Platforms</h2>
 
-- <b>Web Application developer primarily with Java(Spring Boot), Scala(Play, Akka), JavaScript(Node.js, NextJS, TypeScript, Vue.js, React), PHP(Laravel, Yii)</b>
+- <b>Web Application developer primarily with Java(Spring Boot), Scala(Play, Akka), JavaScript(Node.js, NextJS, TypeScript, Vue.js, React), PHP(Laravel, Yii), REST, gRPC, Kafka, Grafana</b>
 - <b>Java (Spring boot, JavaFx) projects</b>
   - [Distributed Retail Platform](https://github.com/kidane-gebremedhin/Distributed-Retail-Platform)
   - [Estudent & Lottery Apps](https://github.com/kidane-gebremedhin/JavaApps)
