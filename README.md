@@ -1,37 +1,62 @@
-<h1>Hi, I'm Kidane! <br/><a href="https://github.com/kidane-gebremedhin">Seasoned Fullstack Developer (7+ years)</a></h1>
+# Hi, I'm Kidane 👋
 
-<h2>👨‍💻 Bridging Past and Future: Development & Maintenance of Both Modern & Legacy Platforms</h2>
+Senior Full-Stack Engineer with **7+ years** of experience building **scalable, production-grade systems** across fintech, education, healthcare, and SaaS domains.
 
-- <b>Web Application developer primarily with Java(Spring Boot), Scala(Play, Akka), JavaScript(Node.js, NextJS, TypeScript, Vue.js, React), PHP(Laravel, Yii), REST, gRPC, Kafka, Grafana</b>
-- <b>Java (Spring boot, JavaFx) projects</b>
+I specialize in **Fullstak development** using Java/Spring Boot, PHP/laravel, Node/TypeScript, and Microservices, **event-driven systems** using Kafka and Webhooks, and **modern web applications** using React, Next.js, TailwindCSS & MaterialUI.
+
+---
+
+## 🚀 What I Do
+
+- Design and build **microservices & distributed systems**
+- Develop **high-performance REST & gRPC APIs**
+- Build **full-stack Fintech and SaaS applications**
+- Modernize **legacy systems** into scalable architectures
+- Improve reliability with **Kafka, Resilience4J, observability**
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**
+- Java (Spring Boot, Spring Cloud)
+- Python (FastAPI, Django)
+- JavaScript (Node, TpeScript)
+- PHP (Laravel)
+
+**Frontend**
+- React, Next.js, TypeScript, Vue.js, TailwindCSS, MaterialUI
+
+**Architecture & Infra**
+- Microservices, Kafka, gRPC
+- PostgreSQL, Redis, MongoDB
+- Docker, Kubernetes, AWS
+- CI/CD (Vercel, Jenkins, GitHub Actions)
+
+---
+
+## 📌 Featured Projects
+
+👉 See pinned repositories below  
+- <b>Java (Spring boot, Kafka, K8s) projects</b>
   - [Distributed Retail Platform](https://github.com/kidane-gebremedhin/Distributed-Retail-Platform)
-  - [Estudent & Lottery Apps](https://github.com/kidane-gebremedhin/JavaApps)
 - <b>JavaScript (TypeScript, NextJs, React) projects</b>
-  - [Demand & Inventory Management App](https://github.com/kidane-gebremedhin/InventoryLite)
-- <b>PHP (Laravel, Yii, CodeIgniter) projects</b>
+  - [Demand and Stock Management App](https://github.com/kidane-gebremedhin/InventoryLite)
+- <b>PHP (Laravel, Yii) projects</b>
   - [Electronic Documents Sharing Platform](https://github.com/kidane-gebremedhin/edms)
-  - [Inventory Stock Monitor](https://github.com/kidane-gebremedhin/stock)
-  - [Send SMS without a Gateway API in a Laravel Application](https://github.com/kidane-gebremedhin/SMS_APP)
+  - [Gatewayless SMS Sender](https://github.com/kidane-gebremedhin/SMS_APP)
 - <b>Scala (Play, Akka) projects</b>
-  - [Scala play web application](https://github.com/kidane-gebremedhin/Scala-play-webapp)
-  - [Akka actors playaround](https://github.com/kidane-gebremedhin/Akka-actors-playaround-SCALA)
-- <b>Python (Django) projects</b>
-  - [Pay with airtime balance](https://github.com/kidane-gebremedhin/Paywith-Airtime-Balance-Django)
-    
-<b>How to reach me:</b>
+  - [Task Tracker](https://github.com/kidane-gebremedhin/Scala-play-webapp)
+- <b>Python projects</b>
+  - [FastAPI Clean Architecture](https://github.com/kidane-gebremedhin/fastapi-clean-architecture)
+  - [Pay with Airtime](https://github.com/kidane-gebremedhin/Paywith-Airtime-Balance-Django)
+- <b>NodeJS/Next.js Projects</b>
+  - [Multiplayer Realtime App](https://github.com/kidane-gebremedhin/multiplayer-chat-app)
+
+---
+
+## 📫 Get in Touch
  - [LinkedIn](https://www.linkedin.com/in/kidane-gebremedhin/)
+- Email: kidane12g@gmail.com
 
-<!--
-**kidane-gebremedhin/kidane-gebremedhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> _Some professional work is private. Code samples available on request._
