@@ -1,6 +1,6 @@
 # Hi, I'm Kidane 👋
 
-Senior Full-Stack Engineer with **7+ years** of experience building **scalable, production-grade systems** across fintech, education, healthcare, and SaaS domains.
+Full-Stack & AI Engineer with **7+ years** of experience building **scalable, production-grade systems** across fintech, education, healthcare, and SaaS domains.
 
 I specialize in **Fullstak development** using Python/FastAPI, Java/Spring Boot, Node/TypeScript. I'm familar with Microservices, **event-driven systems**, and **Agentic Development**.
 
@@ -8,7 +8,7 @@ I specialize in **Fullstak development** using Python/FastAPI, Java/Spring Boot,
 
 ## 🚀 What I Do
 
-- Build AI agents
+- Build governed AI agents
 - Design **microservices & distributed systems**
 - Develop **high-performance REST & gRPC APIs**
 - Build **full-stack Fintech and SaaS applications**
@@ -20,8 +20,8 @@ I specialize in **Fullstak development** using Python/FastAPI, Java/Spring Boot,
 ## 🛠 Tech Stack
 
 **Backend**
-- Java (Spring Boot, Spring Cloud)
 - Python (FastAPI, Django)
+- Java (Spring Boot, Spring Cloud)
 - JavaScript (Node, TpeScript)
 - PHP (Laravel)
 
