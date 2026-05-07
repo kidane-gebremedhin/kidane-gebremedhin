@@ -2,7 +2,7 @@
 
 Senior Full-Stack Engineer with **7+ years** of experience building **scalable, production-grade systems** across fintech, education, healthcare, and SaaS domains.
 
-I specialize in **Fullstak development** using Java/Spring Boot, PHP/laravel, Node/TypeScript, and Microservices, **event-driven systems** using Kafka and Webhooks, and **modern web applications** using React, Next.js, TailwindCSS & MaterialUI.
+I specialize in **Fullstak development** using Python/FastAPI, Java/Spring Boot, Node/TypeScript. I'm familar with Microservices, **event-driven systems**, and **Agentic Development**.
 
 ---
 
